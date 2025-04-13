@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno Honório
 - 👀 I’m a software engineering student;
-- 🌱 I’m currently learning Front-End;
+- 🌱 I’m currently learning Full Stack;
 - 💞️ I’m looking to collaborate in the future;
 - 📫 How to reach me? On LinkedIn: linkedin.com/in/bruno-honório-73608892
 
