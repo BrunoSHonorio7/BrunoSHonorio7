@@ -1,6 +1,6 @@
 # 🧑‍💻 Bruno Honório
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 
 Me chamo Bruno dos Santos Honório, sou natural de Santa Catarina. Atualmente, estou cursando Bacharelado em Engenharia de Software na Uniasselvi. 
 Sou apaixonado por tecnologia e um entusiasta em programação.
